@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   height="1024"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="contralogia-glow.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.78808594"
+     inkscape:cx="512"
+     inkscape:cy="512"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <circle
+     cx="512"
+     cy="512"
+     r="480"
+     style="display:none;fill:#000000"
+     id="circle1" />
+  <g
+     transform-origin="512 512"
+     id="g1"
+     style="display:none">
+    <animateTransform
+       attributeName="transform"
+       calcMode="spline"
+       dur="13s"
+       keySplines=".8 .2 .2 .8"
+       keyTimes="0;1"
+       repeatCount="indefinite"
+       type="rotate"
+       values="0;-3600" />
+    <path
+       d="m 512,128 c 142,50 262,188 256,384 H 640 C 640,581.636 584.283,639.23 512,640 439.448,639.21 384.277,581.61 384,512 H 256 C 250,708 372,846 512,896 310,896 130,738 128,512 H 0 c 0,278.544 222.867,508.924 512,512 290.208,-3.16 510.892,-233.56 512,-512 H 896 C 894,286 714,128 512,128 Z M 384,512 h 32 c 0.5,-56.5 45.5,-96 96,-96 -35,13 -65.5,47 -64,96 h 128 c 1.5,49 -29,83.5 -64,96 50.5,0 95.5,-39.5 96,-96 h 32 C 639.723,442.39 584.552,384.79 512,384 439.717,384.77 384,442.364 384,512 Z"
+       style="display:inline;fill:#000000"
+       id="path1" />
+  </g>
+  <g
+     transform-origin="512 512"
+     id="g2">
+    <animateTransform
+       attributeName="transform"
+       calcMode="spline"
+       dur="13s"
+       keySplines=".8 .2 .2 .8"
+       keyTimes="0;1"
+       repeatCount="indefinite"
+       type="rotate"
+       values="0;-3600" />
+    <path
+       d="M512 896c-142-50-262-188-256-384h128c0-69.636 55.717-127.23 128-128 72.552.79 127.723 58.39 128 128h128c6-196-116-334-256-384 202 0 382 158 384 384h128C1024 233.456 801.133 3.076 512 0 221.792 3.16 1.108 233.56 0 512h128c2 226 182 384 384 384zm128-384h-32c-.5 56.5-45.5 96-96 96 35-13 65.5-47 64-96H448c-1.5-49 29-83.5 64-96-50.5 0-95.5 39.5-96 96h-32c.277 69.61 55.448 127.21 128 128 72.283-.77 128-58.364 128-128z"
+       style="fill:#b12;"
+       id="path2">
+      <animate
+         attributeName="fill"
+         values="#B12;#51B;#1BA;#7B1;#B12"
+         dur="9s"
+         repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
