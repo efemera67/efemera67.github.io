@@ -182,7 +182,7 @@ function createHeader() {
             </nav> \
             <ul class="archives section" style="display: flex; justify-content: space-between; margin: 0;"> \
                 <li style="margin-bottom: 0;"><a href="https://neocities.org/site/proletarian-library" target="_blank">[Neocities]</a></li> \
-                <li style="margin-bottom: 0;"><a href="https://github.com/proletarian-library/proletarian-library.github.io" target="_blank">[GitHub]</a></li> \
+                <li style="margin-bottom: 0;"><a href="https://github.com/efemera67/efemera67.github.io" target="_blank">[GitHub]</a></li> \
             </ul> \
         </div> \
         </details>';
